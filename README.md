@@ -7,7 +7,7 @@
 
 ---
 
-### 🎯 About Me
+### <h1>🎯 About Me </h1>
 
 - 🎓 Year 3 student at **BELTEI International University**, Bachelor of Computer Networking and Cyber Security
 - 🛡️ Seeking an **IT Security Operations (SecOps) Internship**
