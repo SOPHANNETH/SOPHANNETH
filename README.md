@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chean Sophanneth (N4NO)</h1>
+<h1 align="center">Hi 👋, I'm Chean Sophanneth</h1>
 <h3 align="center">Cybersecurity & Networking Student | Aspiring SOC Analyst</h3>
 
 <p align="center">
